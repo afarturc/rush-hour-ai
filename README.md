@@ -1,6 +1,6 @@
 ## Context
 
-The goal of this project, done for the subject Inteligência Artificial at Universidade de Aveiro, was to program an AI Bot with tree search algorithms to solve the Rush Hour game. More details with the algorithms used and results can be found in **report.pdf**.
+The goal of this project, done for the subject "Artificial Intelligence" at Universidade de Aveiro, was to program an AI Bot with tree search algorithms to solve the Rush Hour game. More details with the algorithms used and results can be found in **report.pdf**.
 
 ## Development Team
 
